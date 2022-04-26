@@ -19,7 +19,7 @@
                 <mxCell id="MaglsTXrVU86D-4OawNC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="7Z-LrOooxTyzb09muiCP-1" source="7Z-LrOooxTyzb09muiCP-4" target="MaglsTXrVU86D-4OawNC-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7Z-LrOooxTyzb09muiCP-4" value="attendance_percentage = int_number_of_classes_attended / int_number_of_classes_held" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="7Z-LrOooxTyzb09muiCP-1" vertex="1">
+                <mxCell id="7Z-LrOooxTyzb09muiCP-4" value="attendance_percentage = 100 * int_number_of_classes_attended / int_number_of_classes_held" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="7Z-LrOooxTyzb09muiCP-1" vertex="1">
                     <mxGeometry x="292" y="630" width="244" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="MaglsTXrVU86D-4OawNC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7Z-LrOooxTyzb09muiCP-1" source="7Z-LrOooxTyzb09muiCP-5" target="7Z-LrOooxTyzb09muiCP-6" edge="1">
@@ -52,7 +52,7 @@
                 <mxCell id="MaglsTXrVU86D-4OawNC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="7Z-LrOooxTyzb09muiCP-1" source="MaglsTXrVU86D-4OawNC-3" target="MaglsTXrVU86D-4OawNC-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="MaglsTXrVU86D-4OawNC-3" value="If attendance_percentage &amp;gt;= 0.75" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="7Z-LrOooxTyzb09muiCP-1" vertex="1">
+                <mxCell id="MaglsTXrVU86D-4OawNC-3" value="If attendance_percentage &amp;gt;= 75" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="7Z-LrOooxTyzb09muiCP-1" vertex="1">
                     <mxGeometry x="302" y="720" width="224" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="MaglsTXrVU86D-4OawNC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7Z-LrOooxTyzb09muiCP-1" source="MaglsTXrVU86D-4OawNC-6" target="7Z-LrOooxTyzb09muiCP-6" edge="1">
